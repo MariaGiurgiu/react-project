@@ -6,7 +6,7 @@ import (
 	"log"
 	"net/http"
 
-	"react-project/router"
+	"github.com/MariaGiurgiu/react-project/router"
 )
 
 func main() {
